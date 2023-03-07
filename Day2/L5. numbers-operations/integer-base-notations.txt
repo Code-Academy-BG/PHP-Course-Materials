@@ -1,0 +1,24 @@
+         decimal
+  binary |
+ |       |
+0123456789ABCDEF (Work with as much of this sequence as the base is)
+       |       |
+       octal   |
+               hexadecimal
+
+
+
+Base: 10 
+<-- index
+ 210 
+(123)10 = 100 + 20 + 3 = 1.10^2 + 2.10^1 + 3.10^0
+
+Base: 2
+<-- index
+ 543210 
+(100110)2 = 1.2^5 + 0 + 0 + 1.2^2 + 1.2^1 + 0 = 32 + 4 + 2 = 38 (decimal)
+
+Base: 8
+<-- index
+ 210
+(012)8 = 0.8^2 + 1.8^1 + 2.8^0 = 8 + 2 = 10 (decimal)

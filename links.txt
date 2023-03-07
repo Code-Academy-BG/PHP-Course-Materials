@@ -1,0 +1,54 @@
+Links
+
+W3C - World Wide Web Consortium
+https://www.w3c.org/
+
+PHP
+https://php.net
+
+Random Text Generator (Loren Ipsum)
+https://www.lipsum.com/
+
+
+XAMPP
+https://www.apachefriends.org
+
+VSCode
+https://code.visualstudio.com/Download
+
+
+
+
+PHP Keywords
+https://www.php.net/manual/en/reserved.keywords.php
+
+PHP operators
+https://www.php.net/manual/en/language.operators.php
+https://www.w3schools.com/php/php_operators.asp
+
+PHP Types
+https://www.php.net/manual/en/language.types.php
+
+PHP Truth tables / comparison
+https://www.php.net/manual/en/types.comparisons.php
+
+
+PHP Strings
+https://www.php.net/manual/en/language.types.string.php
+
+PHP Logical operators
+https://www.php.net/manual/en/language.operators.logical.php
+
+PHP Bitwise operators
+https://www.php.net/manual/en/language.operators.bitwise.php
+
+PHP Operators Precedence
+https://www.php.net/manual/en/language.operators.precedence.php
+
+Boolean Algebra
+https://bg.wikipedia.org/wiki/Булева_алгебра
+
+De Morgan's Laws
+https://bg.wikipedia.org/wiki/Закони_на_Де_Морган
+
+
