@@ -12,6 +12,9 @@ echo $lowercase_char . '->' . $uppercase_char . "\n";
 
 // Yeah, works!
 
+var_dump('A -> ' . ('A' | ' ')); // ' '===chr(32)
+var_dump('a -> ' . ('a' & 'é')); // 'é'===chr(223); // 223===~32;
+
 // but see:
 echo 'abc -> '.strtoupper('abc')."\n";
 echo 'DEF -> '.strtolower('DEF')."\n";
@@ -50,3 +53,4 @@ so, bitwise 'and' will do the magic ->
 
 */
 
+?>
